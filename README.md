@@ -84,6 +84,7 @@ Future Work
 References
 
 Please refer to the research paper and documentation included for detailed literature review and citations.
+
 Contact
 
 For questions or collaboration, contact Zachariah McCullough at [zachariahmc96@gmail.com] or open an issue on GitHub.

@@ -73,6 +73,7 @@ Performance Summary
 
 
 *Weighted averages across classes.
+
 Future Work
 
     Improve recall on rare attack classes using techniques like SMOTE, focal loss, and class weighting.

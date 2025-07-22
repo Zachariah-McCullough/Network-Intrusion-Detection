@@ -63,11 +63,11 @@ The project uses the NSL-KDD dataset, a widely recognized benchmark for intrusio
 
 Performance Summary
 
-| Model           | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
-|-----------------|----------|-----------|--------|----------|---------|
-| Random Forest   | 0.86     | 0.88      | 0.86   | 0.81     | 0.98    |
-| SVM             | 0.85     | 0.86      | 0.85   | 0.80     | 0.93    |
-| Deep Neural Net | 0.79     | 0.84*     | 0.79*  | 0.79     | 0.93    |
+| Model               | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
+|---------------------|----------|-----------|--------|----------|---------|
+| Random Forest       | 0.86     | 0.88      | 0.86   | 0.81     | 0.98    |
+| SVM                 | 0.85     | 0.86      | 0.85   | 0.80     | 0.93    |
+| Deep Neural Network | 0.79     | 0.84*     | 0.79*  | 0.79     | 0.93    |
 
 *Weighted averages across classes.
 
